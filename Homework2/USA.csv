@@ -1,0 +1,48 @@
+,Rank,Name,Country,Region,FacultyMemberInt,FacultyMemberTot,StudentInt,StudentTot
+0,1,Massachusetts Institute of Technology (MIT),United States,North America,1679,2982,3717,11067
+1,2,Stanford University,United States,North America,2042,4285,3611,15878
+2,3,Harvard University,United States,North America,1311,4350,5266,22429
+3,4,California Institute of Technology (Caltech),United States,North America,350,953,647,2255
+8,9,University of Chicago,United States,North America,635,2449,3379,13557
+12,13,Princeton University,United States,North America,246,1007,1793,8069
+13,14,Cornell University,United States,North America,970,2718,5411,21904
+15,16,Yale University,United States,North America,1708,4940,2469,12402
+16,17,Johns Hopkins University,United States,North America,1061,4462,4105,16146
+17,18,Columbia University,United States,North America,913,6189,8105,25045
+18,19,University of Pennsylvania,United States,North America,1383,5499,4250,20639
+20,=21,University of Michigan,United States,North America,1920,6809,7527,43147
+21,=21,Duke University,United States,North America,226,2938,2864,15320
+26,27,"University of California, Berkeley (UCB)",United States,North America,1395,3321,6086,36703
+28,=28,Northwestern University,United States,North America,1141,4231,3422,18675
+32,33,"University of California, Los Angeles (UCLA)",United States,North America,662,2859,6887,40114
+38,=38,"University of California, San Diego (UCSD)",United States,North America,870,3694,6644,32237
+47,=47,Carnegie Mellon University,United States,North America,425,1342,6385,13356
+51,52,New York University (NYU),United States,North America,-1,-1,-1,-1
+52,53,Brown University,United States,North America,379,1303,1825,9251
+54,55,University of Wisconsin-Madison,United States,North America,1151,5722,4920,38985
+60,61,University of Washington,United States,North America,550,2484,8373,56973
+66,67,University of Texas at Austin,United States,North America,108,2833,4744,47995
+68,69,University of Illinois at Urbana-Champaign,United States,North America,259,2554,9483,42427
+69,70,Georgia Institute of Technology,United States,North America,75,1133,4761,21082
+79,80,"University of North Carolina, Chapel Hill",United States,North America,524,4083,1934,25373
+80,81,Boston University,United States,North America,379,3157,7041,25662
+85,86,The Ohio State University,United States,North America,1696,5911,6874,43156
+88,89,Rice University,United States,North America,316,969,1847,6610
+93,=93,Pennsylvania State University,United States,North America,211,3509,7081,45612
+99,100,Washington University in St. Louis,United States,North America,784,2699,2706,13474
+104,105,Purdue University,United States,North America,1334,3247,8787,38143
+117,118,"University of California, Davis",United States,North America,549,3843,4529,34244
+128,129,"University of Maryland, College Park",United States,North America,473,3920,4683,35504
+131,132,University of Southern California,United States,North America,551,3124,9170,38749
+133,134,"University of California, Santa Barbara (UCSB)",United States,North America,267,1449,2128,23149
+141,=142,University of Pittsburgh,United States,North America,572,4982,2937,26393
+147,=147,Emory University,United States,North America,484,2560,2154,12852
+149,=149,Michigan State University,United States,North America,653,2884,7427,44951
+162,163,University of Minnesota,United States,North America,195,4919,6542,59742
+164,=164,"University of California, Irvine",United States,North America,377,1926,8538,32151
+168,169,Dartmouth College,United States,North America,27,939,945,6224
+174,=173,University of Virginia,United States,North America,487,2509,1899,21560
+177,178,University of Florida,United States,North America,504,5419,4597,45485
+183,=182,University of Colorado Boulder,United States,North America,566,3685,2679,30219
+185,186,University of Rochester,United States,North America,488,2569,2805,9636
+196,=195,Texas A&M University,United States,North America,206,3446,4900,60294
