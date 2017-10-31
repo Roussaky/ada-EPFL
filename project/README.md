@@ -1,32 +1,23 @@
-# Panama Papers.
-
-# Abstract
-## The project idea:
-The main idea is to visualize the entities that are part of the Panama Papers. Understand where the funds comes from and see if any events are the results of a number of offshore entities than usual.
-
-## Goals:
-- See if there is a link between the fiscal context of the country (new taxes rules, subprime crysis, etc.)
-## Dataset used:
-- The panama papers dataset
-## What story you would like to tell and why?
-- The Offshore leaks database might help finding a specific person or company behind the offshore company.
-- Based on this we can set a network which allow us to explore connections and relationships between all features (company, related adresses, shareholders, …)
-- Then we can filter people by country and see correlations.
-## What's the motivation behind your project?
-- Nowadays many politicians and famous people are in trouble because of money laundering. So maybe this dataset will clarify the main reasons of that.   
+# Graphical representation of the Panama Papers Leaks
+__Abstract-__ The Panama Papers are 11.5 million leaked documents that detail financial and attorney–client information for more than 214,488 offshore entities. As a general rule, it is often difficult to have a proper visualization of the data. But in our case, a graphical representation is possible and could help people to have a better understanding and therefore be aware of the hidden side of finance. Then we would like to correlate the fiscal context of each country (new taxes rules, economic regulations, etc.) with the funds flow described in these papers. 
 
 # Research questions
-A list of research questions you would like to address during the project.
+- There is a pattern between the entities quoted in these papers and their origin country ?
+- Can we forecast a tax change just by using a temporal data processing ?
+- Under what parameters a client is more likely to trust an offshore entities? Does it change with the time ?
 
 # Dataset
-- source : https://www.occrp.org/en/panamapapers/database
+- __[Panama papers](https://www.occrp.org/en/panamapapers/database)__ : This dataset has been built by ICIJ, they have done a marvelous job by taking the leaked files to build this graph database. We can say that this is a "full" dataset and on top of that well documented.
+- __[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)__ : We plan to query this database to enrich our graph model. Looking for informations like economic system, policatal stability for each country. We don't need all the data so the querry system (SPARQL) is advantageous for our specific research.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
-- Loading data
+- Do exploratory analysis 
 - Understanding data
-- Do exploratory analysis
 - Extract useful feature
+- Find a library to allow us to draw an interactive graph
 
-# Questions for TA
-Add here some questions you have for us, in general or project-specific.
+# Questions for TAa
+- Are we allow to use other programmation language ?
+- There is restriction in use of python librairies ?
+- It is too ambitious (our project) ?
+
