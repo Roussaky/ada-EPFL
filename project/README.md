@@ -10,7 +10,7 @@ The main idea is to visualize the entities that are part of the Panama Papers. U
 - The panama papers dataset
 ## What story you would like to tell and why?
 - The Offshore leaks database might help finding a specific person or company behind the offshore company.
-- Based on this we can set a network which allow us to explore connections and relationships between all features (company, related adresses, shareholders, …) 
+- Based on this we can set a network which allow us to explore connections and relationships between all features (company, related adresses, shareholders, …)
 - Then we can filter people by country and see correlations.
 ## What's the motivation behind your project?
 - Nowadays many politicians and famous people are in trouble because of money laundering. So maybe this dataset will clarify the main reasons of that.   
@@ -24,9 +24,9 @@ A list of research questions you would like to address during the project.
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 - Loading data
-- Inderstanding data
+- Understanding data
 - Do exploratory analysis
-- Extract usuful feature
+- Extract useful feature
 
-# Questions for TAa
+# Questions for TA
 Add here some questions you have for us, in general or project-specific.
