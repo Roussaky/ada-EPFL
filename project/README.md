@@ -1,4 +1,4 @@
-# Analyzing the panama papers to determine the factors of fiscal evasion.
+# Panama Papers.
 
 # Abstract
 ## The project idea:
