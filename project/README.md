@@ -1,4 +1,4 @@
-# Helping a student to find his way into the computer sciences field by dressing the profil of StackOverflow user.
+# Panama Papers.
 
 # Abstract
 ## The project idea:
@@ -10,7 +10,7 @@ See if there is a link between the fiscal context of the country (new taxes rule
 Dataset used:
 The panama papers dataset
 
-What story you would like to tell and why?
+What story you would like to tell and why? 
 
 What's the motivation behind your project?
 
