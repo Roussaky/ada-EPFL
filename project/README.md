@@ -12,6 +12,8 @@ __Abstract-__ The Panama Papers are 11.5 millions leaked documents that detail f
 
 # Milestone 2 : Where are we ? 
 - We now understand the data regarding what we have done in our draft notebook and we began our story in our clean notebook.
+- Storyline: please go to: project_notebook.ipynb
+- Data mining (and more data analysis): please go to this link: https://roussaky.github.io/ada-EPFL/project/project_draft.html
 
 # A list of internal milestones up until project milestone 3
 - Continue the analysis political and economical situation of the countries.
