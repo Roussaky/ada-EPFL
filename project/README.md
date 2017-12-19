@@ -18,5 +18,9 @@ __Abstract-__ The Panama Papers are 11.5 millions leaked documents that detail f
 # A list of internal milestones up until project milestone 3
 - Continue the analysis political and economical situation of the countries.
 
-# Questions for TAa
+# Contributions of group members
+
+Clément: Historical analysis, Political analysis.
+Kevin: Political analysis, Report, Final presentation.
+Mehdi: Project analisys.
 
